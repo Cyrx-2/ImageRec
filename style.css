@@ -1,0 +1,20 @@
+.heading{
+    font-size: 22px;
+    color: gray;
+    
+}
+
+.objectNames{
+    font-size: 12px;
+    color: black;
+}
+
+#webcam{
+    width: 350px;
+    height: 300px;
+    border-style: dashed;
+}
+
+body{
+    background-color: lightblue;
+}
